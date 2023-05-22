@@ -12,11 +12,6 @@ Esta página funciona como un _hub_ o centralizador de recursos internos y exter
 [![Alt text](https://img.youtube.com/vi/pj-y3dLDOEA/0.jpg)](https://www.youtube.com/watch?v=pj-y3dLDOEA)
 
 
-
-https://github.com/EconPUCP/EconPUCP.github.io/assets/128189216/0e831eba-cde3-4f96-a41f-2bb31ea9b2e8
-
-
-
 -----
 
 ## Recursos disponibles:
