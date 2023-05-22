@@ -17,11 +17,15 @@ Esta página funciona como un hub o centralizador de recursos internos y externo
 
 [Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica](https://econpucp.github.io/Stata/ "Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica")
 
-[Manual de escritura académica para economistas](https://www.canva.com/design/DAFXHlAPNeU/TKiErYuoQSVai0WKkwJBkQ/view?utm_content=DAFXHlAPNeU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Manual de escritura académica para economistas")
 
-[Mapa de productos de escritura académica durante la carrera](https://www.canva.com/design/DAFXHlAPNeU/TKiErYuoQSVai0WKkwJBkQ/view?utm_content=DAFXHlAPNeU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Mapa de productos de escritura académica durante la carrera")a
+[Manual de escritura académica para economistas](https://experimentology.io/  "Manual de escritura académica para economistas")
+
+
+[Mapa de productos de escritura académica durante la carrera](https://www.canva.com/design/DAFXHlAPNeU/TKiErYuoQSVai0WKkwJBkQ/view?utm_content=DAFXHlAPNeU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Mapa de productos de escritura académica durante la carrera")
+
 
 [La monografía de investigación - EEGGLL](https://cdn02.pucp.education/investigacion/2016/06/13152931/Guia-de-Investigacion-de-Economia-PUCP.pdf "La monografía de investigación - EEGGLL")
+
 
 El ensayo económico
 
