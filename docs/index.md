@@ -17,10 +17,10 @@ Esta página funciona como un _hub_ o centralizador de recursos internos y exter
 
 ## Recursos disponibles:
 
-* [Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica](https://econpucp.github.io/Stata/ "Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica")
+* ### [Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica](https://econpucp.github.io/Stata/ "Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica")
 
 
-* [Manual de escritura académica para economistas](https://experimentology.io/  "Manual de escritura académica para economistas")
+* ### [Manual de escritura académica para economistas](https://experimentology.io/  "Manual de escritura académica para economistas")
 
 
 * [Mapa de productos de escritura académica durante la carrera](https://www.canva.com/design/DAFXHlAPNeU/TKiErYuoQSVai0WKkwJBkQ/view?utm_content=DAFXHlAPNeU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Mapa de productos de escritura académica durante la carrera")
@@ -45,7 +45,7 @@ Esta página funciona como un _hub_ o centralizador de recursos internos y exter
 
 * [Logit](https://github.com/EconPUCP/Stata/tree/main/Replicaci%C3%B3n%20de%20tesis "Logit")
 
-* Probit
+* [Probit](https://github.com/EconPUCP/Stata/tree/main/Replicaci%C3%B3n%20de%20tesis/Tesis%20modelo%20Probit "Probit")
 
 * Tesis de Economía Política en inglés (tesis tipo paper con componente empírico)
 
