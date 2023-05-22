@@ -17,13 +17,13 @@ Esta página funciona como un _hub_ o centralizador de recursos internos y exter
 
 ## Recursos disponibles:
 
-[Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica](https://econpucp.github.io/Stata/ "Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica")
+* [Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica](https://econpucp.github.io/Stata/ "Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica")
 
 
-[Manual de escritura académica para economistas](https://experimentology.io/  "Manual de escritura académica para economistas")
+* [Manual de escritura académica para economistas](https://experimentology.io/  "Manual de escritura académica para economistas")
 
 
-[Mapa de productos de escritura académica durante la carrera](https://www.canva.com/design/DAFXHlAPNeU/TKiErYuoQSVai0WKkwJBkQ/view?utm_content=DAFXHlAPNeU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Mapa de productos de escritura académica durante la carrera")
+* [Mapa de productos de escritura académica durante la carrera](https://www.canva.com/design/DAFXHlAPNeU/TKiErYuoQSVai0WKkwJBkQ/view?utm_content=DAFXHlAPNeU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Mapa de productos de escritura académica durante la carrera")
 
 ## Productos Académicos principales durante la carrera:
 
