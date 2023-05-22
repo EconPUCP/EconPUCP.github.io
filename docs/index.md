@@ -13,6 +13,10 @@ Esta página funciona como un _hub_ o centralizador de recursos internos y exter
 
 
 
+https://github.com/EconPUCP/EconPUCP.github.io/assets/128189216/0e831eba-cde3-4f96-a41f-2bb31ea9b2e8
+
+
+
 -----
 
 ## Recursos disponibles:
