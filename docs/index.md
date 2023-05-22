@@ -23,9 +23,11 @@ Esta página funciona como un _hub_ o centralizador de recursos internos y exter
 * ### [Manual de escritura académica para economistas](https://experimentology.io/  "Manual de escritura académica para economistas")
 
 
-* [Mapa de productos de escritura académica durante la carrera](https://www.canva.com/design/DAFXHlAPNeU/TKiErYuoQSVai0WKkwJBkQ/view?utm_content=DAFXHlAPNeU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Mapa de productos de escritura académica durante la carrera")
 
 ## Productos Académicos principales durante la carrera:
+
+* [Mapa de productos de escritura académica durante la carrera](https://www.canva.com/design/DAFXHlAPNeU/TKiErYuoQSVai0WKkwJBkQ/view?utm_content=DAFXHlAPNeU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Mapa de productos de escritura académica durante la carrera")
+
 
 * [La monografía de investigación - EEGGLL](https://cdn02.pucp.education/investigacion/2016/06/13152931/Guia-de-Investigacion-de-Economia-PUCP.pdf "La monografía de investigación - EEGGLL")
 
