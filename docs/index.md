@@ -15,7 +15,7 @@ Esta página funciona como un _hub_ o centralizador de recursos internos y exter
 
 -----
 
-# Recursos disponibles:
+## Recursos disponibles:
 
 [Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica](https://econpucp.github.io/Stata/ "Stata EconPUCP: Guía y Repositorio de Stata para la investigación económica")
 
