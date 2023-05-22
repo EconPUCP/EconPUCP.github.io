@@ -6,7 +6,7 @@
 
 ## _Hub_ de recursos para la investigación económica 
 
-Esta página funciona como un hub o centralizador de recursos internos y externos para la investigación económica mantenida por la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú (PUCP).
+Esta página funciona como un _hub_ o centralizador de recursos internos y externos para la investigación económica mantenida por la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú (PUCP).
 
 [Ver este proyecto en Github](https://github.com/EconPUCP/Stata "Ver este proyecto en Github")
 
