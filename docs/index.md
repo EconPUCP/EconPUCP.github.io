@@ -36,7 +36,7 @@ El Trabajo de Investigación del Bachillerato
 La tesis
 
 
-El paper
+El _paper_
 
 [Replicación de tesis sobresalientes](https://github.com/EconPUCP/Stata/tree/main/Replicaci%C3%B3n%20de%20tesis "Replicación de tesis sobresalientes")
 
