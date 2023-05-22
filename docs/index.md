@@ -9,9 +9,6 @@
 Esta página funciona como un _hub_ o centralizador de recursos internos y externos para la investigación económica mantenida por la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú (PUCP).
 
 
-[![Alt text](https://img.youtube.com/vi/pj-y3dLDOEA/0.jpg)](https://www.youtube.com/watch?v=pj-y3dLDOEA)
-
-
 -----
 
 ## Recursos disponibles:
