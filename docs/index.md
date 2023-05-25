@@ -37,7 +37,7 @@ Esta página funciona como un _hub_ o centralizador de recursos internos y exter
 * La tesis
 
 
-* El _paper_
+* El _paper_ con componente empírico
 
 ## Replicación de tesis sobresalientes:
 
